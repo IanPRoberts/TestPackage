@@ -10,9 +10,12 @@ RoxygenNote: 7.3.3
 Depends:
     R (>= 3.4.0)
 Imports:
+    cmdstanr,
     instantiate
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 SystemRequirements: GNU make
 Encoding: UTF-8
+Additional_repositories:
+    https://mc-stan.org/r-packages/
