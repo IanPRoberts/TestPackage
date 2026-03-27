@@ -6,6 +6,7 @@ Date: 2025-10-21
 Author: Who wrote it
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line).
+License: Apache License (>= 2)
 RoxygenNote: 7.3.3
 Depends:
     R (>= 3.4.0)
